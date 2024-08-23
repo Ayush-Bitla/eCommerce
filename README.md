@@ -1,1 +1,2 @@
-# ecommerce website
+## eCommerce website 
+using MERN stack
